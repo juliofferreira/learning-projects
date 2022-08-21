@@ -1,0 +1,15 @@
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\bin\Debug\net6.0\8-condicionais2.exe
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\bin\Debug\net6.0\8-condicionais2.deps.json
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\bin\Debug\net6.0\8-condicionais2.runtimeconfig.json
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\bin\Debug\net6.0\8-condicionais2.dll
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\bin\Debug\net6.0\8-condicionais2.pdb
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\obj\Debug\net6.0\8-condicionais2.csproj.AssemblyReference.cache
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\obj\Debug\net6.0\8-condicionais2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\obj\Debug\net6.0\8-condicionais2.AssemblyInfoInputs.cache
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\obj\Debug\net6.0\8-condicionais2.AssemblyInfo.cs
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\obj\Debug\net6.0\8-condicionais2.csproj.CoreCompileInputs.cache
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\obj\Debug\net6.0\8-condicionais2.dll
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\obj\Debug\net6.0\refint\8-condicionais2.dll
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\obj\Debug\net6.0\8-condicionais2.pdb
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\obj\Debug\net6.0\8-condicionais2.genruntimeconfig.cache
+E:\Julio\Alura\C#\AluraCSharp\8-condicionais2\obj\Debug\net6.0\ref\8-condicionais2.dll

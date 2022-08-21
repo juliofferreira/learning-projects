@@ -1,0 +1,4 @@
+export const SEGUNDOS_EM_UMA_HORA = 3600
+export const SEGUNDOS_EM_UM_MINUTO = 60
+
+export const TEMPO_RELOGIO_REGRESSIVO = 1000

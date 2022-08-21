@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Wed Oct 27 16:15:24 BRT 2021
+org.eclipse.jst.jee.server\:/binary\:/home/user/cursos/java-/curso-jstl/produtos/WebContent/WEB-INF/lib/vraptor-3.1.1.jar=WEB-INF/lib/vraptor-3.1.1.jar

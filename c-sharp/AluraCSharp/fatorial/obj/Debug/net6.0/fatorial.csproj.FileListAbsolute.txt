@@ -1,0 +1,15 @@
+E:\Julio\Alura\C#\AluraCSharp\fatorial\bin\Debug\net6.0\fatorial.exe
+E:\Julio\Alura\C#\AluraCSharp\fatorial\bin\Debug\net6.0\fatorial.deps.json
+E:\Julio\Alura\C#\AluraCSharp\fatorial\bin\Debug\net6.0\fatorial.runtimeconfig.json
+E:\Julio\Alura\C#\AluraCSharp\fatorial\bin\Debug\net6.0\fatorial.dll
+E:\Julio\Alura\C#\AluraCSharp\fatorial\bin\Debug\net6.0\fatorial.pdb
+E:\Julio\Alura\C#\AluraCSharp\fatorial\obj\Debug\net6.0\fatorial.csproj.AssemblyReference.cache
+E:\Julio\Alura\C#\AluraCSharp\fatorial\obj\Debug\net6.0\fatorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\Julio\Alura\C#\AluraCSharp\fatorial\obj\Debug\net6.0\fatorial.AssemblyInfoInputs.cache
+E:\Julio\Alura\C#\AluraCSharp\fatorial\obj\Debug\net6.0\fatorial.AssemblyInfo.cs
+E:\Julio\Alura\C#\AluraCSharp\fatorial\obj\Debug\net6.0\fatorial.csproj.CoreCompileInputs.cache
+E:\Julio\Alura\C#\AluraCSharp\fatorial\obj\Debug\net6.0\fatorial.dll
+E:\Julio\Alura\C#\AluraCSharp\fatorial\obj\Debug\net6.0\refint\fatorial.dll
+E:\Julio\Alura\C#\AluraCSharp\fatorial\obj\Debug\net6.0\fatorial.pdb
+E:\Julio\Alura\C#\AluraCSharp\fatorial\obj\Debug\net6.0\fatorial.genruntimeconfig.cache
+E:\Julio\Alura\C#\AluraCSharp\fatorial\obj\Debug\net6.0\ref\fatorial.dll

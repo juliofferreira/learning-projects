@@ -1,0 +1,15 @@
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\bin\Debug\net6.0\P10-calcula_poupanca.exe
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\bin\Debug\net6.0\P10-calcula_poupanca.deps.json
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\bin\Debug\net6.0\P10-calcula_poupanca.runtimeconfig.json
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\bin\Debug\net6.0\P10-calcula_poupanca.dll
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\bin\Debug\net6.0\P10-calcula_poupanca.pdb
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\obj\Debug\net6.0\P10-calcula_poupanca.csproj.AssemblyReference.cache
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\obj\Debug\net6.0\P10-calcula_poupanca.GeneratedMSBuildEditorConfig.editorconfig
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\obj\Debug\net6.0\P10-calcula_poupanca.AssemblyInfoInputs.cache
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\obj\Debug\net6.0\P10-calcula_poupanca.AssemblyInfo.cs
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\obj\Debug\net6.0\P10-calcula_poupanca.csproj.CoreCompileInputs.cache
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\obj\Debug\net6.0\P10-calcula_poupanca.dll
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\obj\Debug\net6.0\refint\P10-calcula_poupanca.dll
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\obj\Debug\net6.0\P10-calcula_poupanca.pdb
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\obj\Debug\net6.0\P10-calcula_poupanca.genruntimeconfig.cache
+E:\Julio\Alura\C#\AluraCSharp\P10-calcula_poupanca\obj\Debug\net6.0\ref\P10-calcula_poupanca.dll
