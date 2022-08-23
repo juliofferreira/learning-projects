@@ -1,1 +1,1 @@
-Project build a barber shop website with HTML5 and CSS3.
+Project building a barber shop website with HTML5 and CSS3.
