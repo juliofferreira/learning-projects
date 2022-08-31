@@ -10,6 +10,7 @@
     width: 100vw;
     height: 100vh;
     display: grid;
+    gap: 8px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;
 }
@@ -19,8 +20,8 @@
     border-radius: 10px;
     min-width: 50px;
     min-height: 50px;
-    margin: 8px;
     grid-column: span 4;
+    grid-row: 4;
 }
 
 .side-menu {
@@ -28,8 +29,8 @@
     border-radius: 10px;
     min-width: 50px;
     min-height: 50px;
-    margin: 8px;
     grid-row: span 3;
+    grid-column: 4;
 }
 
 .main-content {
@@ -37,9 +38,9 @@
     border-radius: 10px;
     min-width: 50px;
     min-height: 50px;
-    margin: 8px;
     grid-column: span 2;
-    grid-row: span 3;
+    grid-row: 1 / span 3;
+    grid-column: 2 / span 2;
 }
 
 .upper-right-content {
@@ -47,7 +48,7 @@
     border-radius: 10px;
     min-width: 50px;
     min-height: 50px;
-    margin: 8px;
+    grid-row: 3;
 }
 
 .bottom-right-content {
@@ -55,6 +56,5 @@
     border-radius: 10px;
     min-width: 50px;
     min-height: 50px;
-    margin: 8px;
-    grid-row: span 2;
+    grid-row: 1 / span 2;
 }
