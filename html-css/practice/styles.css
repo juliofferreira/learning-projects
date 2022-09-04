@@ -1,0 +1,155 @@
+:root {
+	--white-main: #ffffff;
+	--gray-secondary: #c0c0c0;
+	--blue-button: #167bf7;
+	--background-color: #00030c;
+	--blue-button-effect: #3c92fa;
+	--main-font: 'Inter';
+}
+
+body {
+	background-color: var(--background-color);
+	color: var(--white-main);
+	font-family: var(--main-font);
+	font-size: 16px;
+	font-weight: 400;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.main {
+	background-image: url('./img/background.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	align-items: center;
+	text-align: center;
+}
+
+.container {
+	height: 100vh;
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+
+.container__button {
+	background-color: var(--blue-button);
+	border-radius: 5px;
+	padding: 1em;
+	color: var(--white-main);
+	display: block;
+	text-decoration: none;
+	margin-bottom: 1em;
+}
+
+.secondary_button {
+	background-color: transparent;
+	border: 2px solid var(--white-main);
+}
+
+.container__warning {
+	font-size: 12px;
+	color: var(--gray-secondary);
+}
+
+.container__title {
+	font-size: 28px;
+	font-weight: 700;
+}
+
+.container__image {
+	margin: 1em 0 2em 0;
+}
+
+.container__box {
+	margin: 0 6em;
+}
+
+.secondary__image {
+	width: 80%;
+}
+
+.secondary {
+	align-items: center;
+	margin: 0 10em;
+}
+
+.description__title {
+	font-weight: 700;
+	font-size: 48px;
+	color: var(--white-main);
+	margin-bottom: 0.1em;
+}
+
+.description__text {
+	color: var(--gray-secondary);
+}
+
+.secondary__button {
+	display: inline-block;
+	margin-top: 1em;
+}
+
+.container__description {
+	padding: 2em;
+}
+
+.devices__list {
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+	margin: 5em 0;
+}
+
+.devices {
+	text-align: center;
+}
+
+.devices__title {
+	font-size: 48px;
+	color: var(--white-main);
+}
+
+.list__item {
+	font-size: 32px;
+	color: var(--white-main);
+}
+
+.footer {
+	text-align: center;
+	margin: 5em 3em;
+}
+
+.footer__list {
+	display: flex;
+	list-style-type: none;
+	justify-content: center;
+	margin-top: 1em;
+}
+
+.list__link a {
+	text-decoration: none;
+	color: var(--white-main);
+	margin: 0 0.5em 0;
+}
+
+.footer__text {
+	color: var(--gray-secondary);
+	font-size: 14px;
+	margin: 1em 0;
+}
+
+.list__link a:hover {
+	color: var(--blue-button);
+}
+
+.list__link a:active {
+	color: purple;
+}
+
+.container__button:hover {
+	background-color: var(--blue-button-effect);
+	color: var(--background-color);
+}
