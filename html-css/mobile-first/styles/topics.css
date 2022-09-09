@@ -29,3 +29,13 @@
 .topics__item {
 	margin: 2em 0.5em;
 }
+
+@media screen and (min-width: 1024px) {
+	.topics__title {
+		font-size: 24px;
+	}
+
+	.topics__link {
+		font-size: 24px;
+	}
+}
