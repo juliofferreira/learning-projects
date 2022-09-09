@@ -5,16 +5,17 @@
 	background-repeat: no-repeat;
 	display: inline-block;
 	position: relative;
-	left: 0;
+	left: 8px;
 }
 
 .blue-menu {
 	background-image: url(../img/menu-blue.svg);
+	z-index: 1;
 }
 
 .white-menu {
 	background-image: url(../img/menu-white.svg);
-	z-index: -1;
+	z-index: 0;
 	position: absolute;
 }
 
@@ -55,8 +56,8 @@
 	background: var(--blue-gradient);
 }
 
-.container__button:checked ~ .blue-menu {
-	z-index: -2 !important;
+.container__button:checked ~ .container__label .blue-menu {
+	z-index: -1;
 }
 
 .list-menu__title,

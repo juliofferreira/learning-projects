@@ -22,10 +22,6 @@
 	margin: 0.5em 0;
 }
 
-.container__button:checked ~ .swiper-pagination {
-	visibility: hidden;
-}
-
 .card__description {
 	display: flex;
 	justify-content: space-between;
