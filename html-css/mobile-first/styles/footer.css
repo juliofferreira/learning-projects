@@ -41,4 +41,19 @@ hr {
 	.footer__title {
 		font-size: 24px;
 	}
+
+	.list-footer__link:hover {
+		color: var(--orange);
+	}
+}
+
+@media screen and (min-width: 1728px) {
+	.list-footer {
+		border-left: 1px solid var(--light-gray);
+		padding: 1em;
+	}
+
+	.footer {
+		padding: 3em 0;
+	}
 }
