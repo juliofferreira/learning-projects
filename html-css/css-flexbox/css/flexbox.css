@@ -1,9 +1,38 @@
 .cabecalhoPrincipal .container {
-	display: flex;
 	align-items: center;
+	display: flex;
 	justify-content: space-between;
 }
 
 .cabecalhoPrincipal-nav {
 	display: flex;
+}
+
+.rodapePrincipal-patrocinadores .container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.rodapePrincipal-patrocinadores-list {
+	align-items: center;
+	display: flex;
+	justify-content: space-around;
+	margin-right: 5%;
+	width: 70%;
+}
+
+.rodapePrincipal-contatoForm {
+	width: 25%;
+}
+
+.rodapePrincipal-contatoForm-fieldset {
+	display: flex;
+}
+
+.rodapePrincipal-navMap-list {
+	display: flex;
+	/* flex-direction: column;
+	flex-wrap: wrap; */
+	flex-flow: column wrap;
+	height: 260px;
 }
