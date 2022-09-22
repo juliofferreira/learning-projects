@@ -218,7 +218,7 @@ body {
 	margin-bottom: 10px;
 }
 
-@media (min-width: 769px) {
+@media screen and (min-width: 769px) {
 	.container {
 		width: 85%;
 	}
@@ -264,7 +264,7 @@ body {
 	}
 }
 
-@media (min-width: 1000px) {
+@media screen and (min-width: 1000px) {
 	.conteudoPrincipal-cursos-link {
 		margin: 1.333%;
 	}
