@@ -4,9 +4,14 @@ A website template was given to the student, and during the course we adjusted t
 
 Some of the things that were thaught in the course were:
 
-- Screen reader softwares and how to use them
-- Heading tags importance for accessibility
-- Attributes lang and alt
-- CSS interference with screen readers
-- Roles and arias
-- Making forms more accessible
+- Screen reading softwares and how to use them
+- HTML and CSS:
+  - Heading tags importance for accessibility
+  - Attributes lang and alt
+  - CSS interference with screen readers
+  - Roles and arias
+  - Making forms more accessible
+- JavaScript:
+  - Inclusive modal
+  - Inclusive carousel
+  - Inclusive form
