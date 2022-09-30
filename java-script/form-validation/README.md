@@ -14,3 +14,4 @@ Topics covered by the course:
   - Custom error messages
   - Validating CPF
   - Validating CEP and filling other inputs with API call
+  - Using masks for monetary inputs
