@@ -4,6 +4,10 @@
 	position: relative;
 }
 
+.contatoCampo-label {
+	position: relative;
+}
+
 .contatoCampo-label:before {
 	content: '';
 	vertical-align: middle;
@@ -16,17 +20,44 @@
 	border: 1px solid #7d7d7d;
 	color: transparent;
 	line-height: 1;
-	transition: 0.2s ease-in;
+	transition: background-color 0.2s ease-in color 0.2s ease-in;
+	box-sizing: border-box;
+}
+
+.contatoCampo-checkbox:hover + .contatoCampo-label:before,
+.contatoCampo-checkbox:focus + .contatoCampo-label:before {
+	border: 2px solid #333;
 }
 
 .contatoCampo-checkbox:checked + .contatoCampo-label:before {
-	content: 'x';
+	content: '';
 	color: #fff;
 	background-image: radial-gradient(circle, #2da4e7, #2f80ed);
+	border-color: transparent;
+	line-height: 0.8;
+}
+
+.contatoCampo-checkbox:checked + .contatoCampo-label:after {
+	content: '';
+	width: 10px;
+	height: 5px;
+	display: block;
+	border-bottom: 2px solid white;
+	border-left: 2px solid white;
+	transform: rotate(-45deg);
+	position: absolute;
+	z-index: 2;
+	left: -3px;
+	top: 5px;
 }
 
 .contatoCampo-checkbox {
-	display: none;
+	/* display: none;
+	visibility: hidden; */
+
+	left: -9999px;
+	position: absolute;
+	opacity: 0;
 }
 
 .contatoCampo-icone {
@@ -75,7 +106,7 @@
 	font-size: 0.9em;
 	font-weight: bold;
 	color: #fd1242;
-	display: inline-block;
+	display: none;
 }
 
 .contatoCampo .contatoCampo--validouFoi {

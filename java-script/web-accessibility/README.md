@@ -1,6 +1,6 @@
 # ACESSIBILITY PROJECT
 
-Run npm install to install dependencies.
+Run 'npm install' to install dependencies.
 
 A website template was given to the student, and during the course we adjusted the project for better accessibility.
 
@@ -14,6 +14,6 @@ Some of the things that were thaught in the course were:
   - Roles and arias
   - Making forms more accessible
 - JavaScript:
-  - Inclusive modal
+  - Inclusive dialog
   - Inclusive carousel
   - Inclusive form
