@@ -135,3 +135,12 @@ button:disabled {
 .paciente-invalido {
 	background-color: lightcoral;
 }
+
+#mensagens-erro {
+	color: red;
+}
+
+.fadeOut {
+	opacity: 0;
+	transition: 0.5s;
+}
