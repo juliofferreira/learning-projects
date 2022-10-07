@@ -9,6 +9,8 @@
 		<script src="./js/calcula-imc.js" defer></script>
 		<script src="./js/form.js" defer></script>
 		<script src="./js/remover-paciente.js" defer></script>
+		<script src="./js/filtro.js" defer></script>
+		<script src="./js/buscar-pacientes.js" defer></script>
 	</head>
 	<body>
 		<header>
@@ -19,6 +21,12 @@
 		<main>
 			<section class="container">
 				<h2>Meus pacientes</h2>
+				<input
+					type="text"
+					name="filtro"
+					id="filtrar-tabela"
+					placeholder="Digite o nome do paciente"
+				/>
 				<table>
 					<thead>
 						<tr>
@@ -70,6 +78,12 @@
 						</tr>
 					</tbody>
 				</table>
+				<span id="erro-ajax" class="invisivel"
+					>Erro ao buscar os pacientes</span
+				>
+				<button id="buscar-pacientes" class="botao bto-principal">
+					Buscar Pacientes
+				</button>
 			</section>
 			<section class="container">
 				<h2 id="titulo-form">Adicionar novo paciente</h2>
