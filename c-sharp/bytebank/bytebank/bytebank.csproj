@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Titular\" />
+    <None Remove="Contas\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Titular\" />
+    <Folder Include="Contas\" />
+  </ItemGroup>
 </Project>

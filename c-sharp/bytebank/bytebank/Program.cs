@@ -1,6 +1,4 @@
-﻿using bytebank.Titular;
-using bytebank;
+﻿using bytebank.Contas;
+using bytebank.Titular;
 
-Console.WriteLine("Bem vindo ao seu banco, ByteBank!");
-
-Console.ReadKey();
+Console.WriteLine("RUN");
