@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>bytebank_adm</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Funcionarios\" />
+    <None Remove="Utilitario\" />
+    <None Remove="SistemaInterno\" />
+    <None Remove="Parceria\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Funcionarios\" />
+    <Folder Include="Utilitario\" />
+    <Folder Include="SistemaInterno\" />
+    <Folder Include="Parceria\" />
+  </ItemGroup>
+</Project>
