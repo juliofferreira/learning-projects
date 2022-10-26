@@ -9,6 +9,12 @@
 
   <ItemGroup>
     <Folder Include="bytebank.Util\" />
+    <Folder Include="bytebank.Exceptions\" />
+    <Folder Include="bytebank.Atendimento\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="bytebank.Exceptions\" />
+    <None Remove="bytebank.Atendimento\" />
+  </ItemGroup>
 </Project>
