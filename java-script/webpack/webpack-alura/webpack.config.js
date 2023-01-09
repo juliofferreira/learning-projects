@@ -1,5 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
 	entry: './app/src/js/app.js',
@@ -14,5 +15,6 @@ module.exports = {
 			filename: 'app.html',
 			hash: true,
 		}),
+		new CopyWebpackPlugin({ patterns: [{ from: './app/src/css', to: 'css' }] }),
 	],
 };
